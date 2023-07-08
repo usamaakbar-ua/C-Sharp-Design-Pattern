@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Strategy2Demo/1.0.0": {
+        "runtime": {
+          "Strategy2Demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Strategy2Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

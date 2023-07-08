@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Iterator2Demo/1.0.0": {
+        "runtime": {
+          "Iterator2Demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Iterator2Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\Design Pattern\Example\DesignPatternDemo\Strategy2Demo\bin\Debug\net5.0\Strategy2Demo.exe
+D:\Design Pattern\Example\DesignPatternDemo\Strategy2Demo\bin\Debug\net5.0\Strategy2Demo.deps.json
+D:\Design Pattern\Example\DesignPatternDemo\Strategy2Demo\bin\Debug\net5.0\Strategy2Demo.runtimeconfig.json
+D:\Design Pattern\Example\DesignPatternDemo\Strategy2Demo\bin\Debug\net5.0\Strategy2Demo.runtimeconfig.dev.json
+D:\Design Pattern\Example\DesignPatternDemo\Strategy2Demo\bin\Debug\net5.0\Strategy2Demo.dll
+D:\Design Pattern\Example\DesignPatternDemo\Strategy2Demo\bin\Debug\net5.0\ref\Strategy2Demo.dll
+D:\Design Pattern\Example\DesignPatternDemo\Strategy2Demo\bin\Debug\net5.0\Strategy2Demo.pdb
+D:\Design Pattern\Example\DesignPatternDemo\Strategy2Demo\obj\Debug\net5.0\Strategy2Demo.csproj.AssemblyReference.cache
+D:\Design Pattern\Example\DesignPatternDemo\Strategy2Demo\obj\Debug\net5.0\Strategy2Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Design Pattern\Example\DesignPatternDemo\Strategy2Demo\obj\Debug\net5.0\Strategy2Demo.AssemblyInfoInputs.cache
+D:\Design Pattern\Example\DesignPatternDemo\Strategy2Demo\obj\Debug\net5.0\Strategy2Demo.AssemblyInfo.cs
+D:\Design Pattern\Example\DesignPatternDemo\Strategy2Demo\obj\Debug\net5.0\Strategy2Demo.csproj.CoreCompileInputs.cache
+D:\Design Pattern\Example\DesignPatternDemo\Strategy2Demo\obj\Debug\net5.0\Strategy2Demo.dll
+D:\Design Pattern\Example\DesignPatternDemo\Strategy2Demo\obj\Debug\net5.0\ref\Strategy2Demo.dll
+D:\Design Pattern\Example\DesignPatternDemo\Strategy2Demo\obj\Debug\net5.0\Strategy2Demo.pdb
+D:\Design Pattern\Example\DesignPatternDemo\Strategy2Demo\obj\Debug\net5.0\Strategy2Demo.genruntimeconfig.cache

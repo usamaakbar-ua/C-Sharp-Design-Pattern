@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Flyweight1Demo/1.0.0": {
+        "runtime": {
+          "Flyweight1Demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Flyweight1Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

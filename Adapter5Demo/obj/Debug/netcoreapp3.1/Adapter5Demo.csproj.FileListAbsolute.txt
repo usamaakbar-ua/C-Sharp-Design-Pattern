@@ -1,0 +1,14 @@
+D:\Design Pattern\Example\DesignPatternDemo\Adapter5Demo\bin\Debug\netcoreapp3.1\Adapter5Demo.exe
+D:\Design Pattern\Example\DesignPatternDemo\Adapter5Demo\bin\Debug\netcoreapp3.1\Adapter5Demo.deps.json
+D:\Design Pattern\Example\DesignPatternDemo\Adapter5Demo\bin\Debug\netcoreapp3.1\Adapter5Demo.runtimeconfig.json
+D:\Design Pattern\Example\DesignPatternDemo\Adapter5Demo\bin\Debug\netcoreapp3.1\Adapter5Demo.runtimeconfig.dev.json
+D:\Design Pattern\Example\DesignPatternDemo\Adapter5Demo\bin\Debug\netcoreapp3.1\Adapter5Demo.dll
+D:\Design Pattern\Example\DesignPatternDemo\Adapter5Demo\bin\Debug\netcoreapp3.1\Adapter5Demo.pdb
+D:\Design Pattern\Example\DesignPatternDemo\Adapter5Demo\obj\Debug\netcoreapp3.1\Adapter5Demo.csproj.AssemblyReference.cache
+D:\Design Pattern\Example\DesignPatternDemo\Adapter5Demo\obj\Debug\netcoreapp3.1\Adapter5Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Design Pattern\Example\DesignPatternDemo\Adapter5Demo\obj\Debug\netcoreapp3.1\Adapter5Demo.AssemblyInfoInputs.cache
+D:\Design Pattern\Example\DesignPatternDemo\Adapter5Demo\obj\Debug\netcoreapp3.1\Adapter5Demo.AssemblyInfo.cs
+D:\Design Pattern\Example\DesignPatternDemo\Adapter5Demo\obj\Debug\netcoreapp3.1\Adapter5Demo.csproj.CoreCompileInputs.cache
+D:\Design Pattern\Example\DesignPatternDemo\Adapter5Demo\obj\Debug\netcoreapp3.1\Adapter5Demo.dll
+D:\Design Pattern\Example\DesignPatternDemo\Adapter5Demo\obj\Debug\netcoreapp3.1\Adapter5Demo.pdb
+D:\Design Pattern\Example\DesignPatternDemo\Adapter5Demo\obj\Debug\netcoreapp3.1\Adapter5Demo.genruntimeconfig.cache

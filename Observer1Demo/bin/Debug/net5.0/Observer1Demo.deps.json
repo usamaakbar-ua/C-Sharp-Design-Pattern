@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Observer1Demo/1.0.0": {
+        "runtime": {
+          "Observer1Demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Observer1Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

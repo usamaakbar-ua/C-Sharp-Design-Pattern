@@ -1,0 +1,15 @@
+D:\Design Pattern\Example\DesignPatternDemo\Observer3Demo\bin\Debug\net5.0\Observer3Demo.exe
+D:\Design Pattern\Example\DesignPatternDemo\Observer3Demo\bin\Debug\net5.0\Observer3Demo.deps.json
+D:\Design Pattern\Example\DesignPatternDemo\Observer3Demo\bin\Debug\net5.0\Observer3Demo.runtimeconfig.json
+D:\Design Pattern\Example\DesignPatternDemo\Observer3Demo\bin\Debug\net5.0\Observer3Demo.runtimeconfig.dev.json
+D:\Design Pattern\Example\DesignPatternDemo\Observer3Demo\bin\Debug\net5.0\Observer3Demo.dll
+D:\Design Pattern\Example\DesignPatternDemo\Observer3Demo\bin\Debug\net5.0\ref\Observer3Demo.dll
+D:\Design Pattern\Example\DesignPatternDemo\Observer3Demo\bin\Debug\net5.0\Observer3Demo.pdb
+D:\Design Pattern\Example\DesignPatternDemo\Observer3Demo\obj\Debug\net5.0\Observer3Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Design Pattern\Example\DesignPatternDemo\Observer3Demo\obj\Debug\net5.0\Observer3Demo.AssemblyInfoInputs.cache
+D:\Design Pattern\Example\DesignPatternDemo\Observer3Demo\obj\Debug\net5.0\Observer3Demo.AssemblyInfo.cs
+D:\Design Pattern\Example\DesignPatternDemo\Observer3Demo\obj\Debug\net5.0\Observer3Demo.csproj.CoreCompileInputs.cache
+D:\Design Pattern\Example\DesignPatternDemo\Observer3Demo\obj\Debug\net5.0\Observer3Demo.dll
+D:\Design Pattern\Example\DesignPatternDemo\Observer3Demo\obj\Debug\net5.0\ref\Observer3Demo.dll
+D:\Design Pattern\Example\DesignPatternDemo\Observer3Demo\obj\Debug\net5.0\Observer3Demo.pdb
+D:\Design Pattern\Example\DesignPatternDemo\Observer3Demo\obj\Debug\net5.0\Observer3Demo.genruntimeconfig.cache

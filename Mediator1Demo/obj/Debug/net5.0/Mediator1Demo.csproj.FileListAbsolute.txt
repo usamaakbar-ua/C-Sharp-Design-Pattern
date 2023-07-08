@@ -1,0 +1,16 @@
+D:\Design Pattern\Example\DesignPatternDemo\Mediator1Demo\bin\Debug\net5.0\Mediator1Demo.exe
+D:\Design Pattern\Example\DesignPatternDemo\Mediator1Demo\bin\Debug\net5.0\Mediator1Demo.deps.json
+D:\Design Pattern\Example\DesignPatternDemo\Mediator1Demo\bin\Debug\net5.0\Mediator1Demo.runtimeconfig.json
+D:\Design Pattern\Example\DesignPatternDemo\Mediator1Demo\bin\Debug\net5.0\Mediator1Demo.runtimeconfig.dev.json
+D:\Design Pattern\Example\DesignPatternDemo\Mediator1Demo\bin\Debug\net5.0\Mediator1Demo.dll
+D:\Design Pattern\Example\DesignPatternDemo\Mediator1Demo\bin\Debug\net5.0\ref\Mediator1Demo.dll
+D:\Design Pattern\Example\DesignPatternDemo\Mediator1Demo\bin\Debug\net5.0\Mediator1Demo.pdb
+D:\Design Pattern\Example\DesignPatternDemo\Mediator1Demo\obj\Debug\net5.0\Mediator1Demo.csproj.AssemblyReference.cache
+D:\Design Pattern\Example\DesignPatternDemo\Mediator1Demo\obj\Debug\net5.0\Mediator1Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Design Pattern\Example\DesignPatternDemo\Mediator1Demo\obj\Debug\net5.0\Mediator1Demo.AssemblyInfoInputs.cache
+D:\Design Pattern\Example\DesignPatternDemo\Mediator1Demo\obj\Debug\net5.0\Mediator1Demo.AssemblyInfo.cs
+D:\Design Pattern\Example\DesignPatternDemo\Mediator1Demo\obj\Debug\net5.0\Mediator1Demo.csproj.CoreCompileInputs.cache
+D:\Design Pattern\Example\DesignPatternDemo\Mediator1Demo\obj\Debug\net5.0\Mediator1Demo.dll
+D:\Design Pattern\Example\DesignPatternDemo\Mediator1Demo\obj\Debug\net5.0\ref\Mediator1Demo.dll
+D:\Design Pattern\Example\DesignPatternDemo\Mediator1Demo\obj\Debug\net5.0\Mediator1Demo.pdb
+D:\Design Pattern\Example\DesignPatternDemo\Mediator1Demo\obj\Debug\net5.0\Mediator1Demo.genruntimeconfig.cache

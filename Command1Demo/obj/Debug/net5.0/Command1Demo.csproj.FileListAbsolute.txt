@@ -1,0 +1,16 @@
+D:\Design Pattern\Example\DesignPatternDemo\Command1Demo\bin\Debug\net5.0\Command1Demo.exe
+D:\Design Pattern\Example\DesignPatternDemo\Command1Demo\bin\Debug\net5.0\Command1Demo.deps.json
+D:\Design Pattern\Example\DesignPatternDemo\Command1Demo\bin\Debug\net5.0\Command1Demo.runtimeconfig.json
+D:\Design Pattern\Example\DesignPatternDemo\Command1Demo\bin\Debug\net5.0\Command1Demo.runtimeconfig.dev.json
+D:\Design Pattern\Example\DesignPatternDemo\Command1Demo\bin\Debug\net5.0\Command1Demo.dll
+D:\Design Pattern\Example\DesignPatternDemo\Command1Demo\bin\Debug\net5.0\ref\Command1Demo.dll
+D:\Design Pattern\Example\DesignPatternDemo\Command1Demo\bin\Debug\net5.0\Command1Demo.pdb
+D:\Design Pattern\Example\DesignPatternDemo\Command1Demo\obj\Debug\net5.0\Command1Demo.csproj.AssemblyReference.cache
+D:\Design Pattern\Example\DesignPatternDemo\Command1Demo\obj\Debug\net5.0\Command1Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Design Pattern\Example\DesignPatternDemo\Command1Demo\obj\Debug\net5.0\Command1Demo.AssemblyInfoInputs.cache
+D:\Design Pattern\Example\DesignPatternDemo\Command1Demo\obj\Debug\net5.0\Command1Demo.AssemblyInfo.cs
+D:\Design Pattern\Example\DesignPatternDemo\Command1Demo\obj\Debug\net5.0\Command1Demo.csproj.CoreCompileInputs.cache
+D:\Design Pattern\Example\DesignPatternDemo\Command1Demo\obj\Debug\net5.0\Command1Demo.dll
+D:\Design Pattern\Example\DesignPatternDemo\Command1Demo\obj\Debug\net5.0\ref\Command1Demo.dll
+D:\Design Pattern\Example\DesignPatternDemo\Command1Demo\obj\Debug\net5.0\Command1Demo.pdb
+D:\Design Pattern\Example\DesignPatternDemo\Command1Demo\obj\Debug\net5.0\Command1Demo.genruntimeconfig.cache

@@ -1,0 +1,27 @@
+C:\Users\karwa\Desktop\Prototype1Demo\Prototype1Demo\bin\Debug\netcoreapp3.1\Prototype1Demo.exe
+C:\Users\karwa\Desktop\Prototype1Demo\Prototype1Demo\bin\Debug\netcoreapp3.1\Prototype1Demo.deps.json
+C:\Users\karwa\Desktop\Prototype1Demo\Prototype1Demo\bin\Debug\netcoreapp3.1\Prototype1Demo.runtimeconfig.json
+C:\Users\karwa\Desktop\Prototype1Demo\Prototype1Demo\bin\Debug\netcoreapp3.1\Prototype1Demo.runtimeconfig.dev.json
+C:\Users\karwa\Desktop\Prototype1Demo\Prototype1Demo\bin\Debug\netcoreapp3.1\Prototype1Demo.dll
+C:\Users\karwa\Desktop\Prototype1Demo\Prototype1Demo\bin\Debug\netcoreapp3.1\Prototype1Demo.pdb
+C:\Users\karwa\Desktop\Prototype1Demo\Prototype1Demo\obj\Debug\netcoreapp3.1\Prototype1Demo.csprojAssemblyReference.cache
+C:\Users\karwa\Desktop\Prototype1Demo\Prototype1Demo\obj\Debug\netcoreapp3.1\Prototype1Demo.AssemblyInfoInputs.cache
+C:\Users\karwa\Desktop\Prototype1Demo\Prototype1Demo\obj\Debug\netcoreapp3.1\Prototype1Demo.AssemblyInfo.cs
+C:\Users\karwa\Desktop\Prototype1Demo\Prototype1Demo\obj\Debug\netcoreapp3.1\Prototype1Demo.csproj.CoreCompileInputs.cache
+C:\Users\karwa\Desktop\Prototype1Demo\Prototype1Demo\obj\Debug\netcoreapp3.1\Prototype1Demo.dll
+C:\Users\karwa\Desktop\Prototype1Demo\Prototype1Demo\obj\Debug\netcoreapp3.1\Prototype1Demo.pdb
+C:\Users\karwa\Desktop\Prototype1Demo\Prototype1Demo\obj\Debug\netcoreapp3.1\Prototype1Demo.genruntimeconfig.cache
+D:\Design Pattern\Example\DesignPatternDemo\Prototype1Demo\Prototype1Demo\bin\Debug\netcoreapp3.1\Prototype1Demo.exe
+D:\Design Pattern\Example\DesignPatternDemo\Prototype1Demo\Prototype1Demo\bin\Debug\netcoreapp3.1\Prototype1Demo.deps.json
+D:\Design Pattern\Example\DesignPatternDemo\Prototype1Demo\Prototype1Demo\bin\Debug\netcoreapp3.1\Prototype1Demo.runtimeconfig.json
+D:\Design Pattern\Example\DesignPatternDemo\Prototype1Demo\Prototype1Demo\bin\Debug\netcoreapp3.1\Prototype1Demo.runtimeconfig.dev.json
+D:\Design Pattern\Example\DesignPatternDemo\Prototype1Demo\Prototype1Demo\bin\Debug\netcoreapp3.1\Prototype1Demo.dll
+D:\Design Pattern\Example\DesignPatternDemo\Prototype1Demo\Prototype1Demo\bin\Debug\netcoreapp3.1\Prototype1Demo.pdb
+D:\Design Pattern\Example\DesignPatternDemo\Prototype1Demo\Prototype1Demo\obj\Debug\netcoreapp3.1\Prototype1Demo.csproj.AssemblyReference.cache
+D:\Design Pattern\Example\DesignPatternDemo\Prototype1Demo\Prototype1Demo\obj\Debug\netcoreapp3.1\Prototype1Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Design Pattern\Example\DesignPatternDemo\Prototype1Demo\Prototype1Demo\obj\Debug\netcoreapp3.1\Prototype1Demo.AssemblyInfoInputs.cache
+D:\Design Pattern\Example\DesignPatternDemo\Prototype1Demo\Prototype1Demo\obj\Debug\netcoreapp3.1\Prototype1Demo.AssemblyInfo.cs
+D:\Design Pattern\Example\DesignPatternDemo\Prototype1Demo\Prototype1Demo\obj\Debug\netcoreapp3.1\Prototype1Demo.csproj.CoreCompileInputs.cache
+D:\Design Pattern\Example\DesignPatternDemo\Prototype1Demo\Prototype1Demo\obj\Debug\netcoreapp3.1\Prototype1Demo.dll
+D:\Design Pattern\Example\DesignPatternDemo\Prototype1Demo\Prototype1Demo\obj\Debug\netcoreapp3.1\Prototype1Demo.pdb
+D:\Design Pattern\Example\DesignPatternDemo\Prototype1Demo\Prototype1Demo\obj\Debug\netcoreapp3.1\Prototype1Demo.genruntimeconfig.cache

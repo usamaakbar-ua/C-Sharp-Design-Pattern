@@ -1,0 +1,14 @@
+D:\Design Pattern\Example\DesignPatternDemo\Adapter1Demo\bin\Debug\netcoreapp3.1\Adapter1Demo.exe
+D:\Design Pattern\Example\DesignPatternDemo\Adapter1Demo\bin\Debug\netcoreapp3.1\Adapter1Demo.deps.json
+D:\Design Pattern\Example\DesignPatternDemo\Adapter1Demo\bin\Debug\netcoreapp3.1\Adapter1Demo.runtimeconfig.json
+D:\Design Pattern\Example\DesignPatternDemo\Adapter1Demo\bin\Debug\netcoreapp3.1\Adapter1Demo.runtimeconfig.dev.json
+D:\Design Pattern\Example\DesignPatternDemo\Adapter1Demo\bin\Debug\netcoreapp3.1\Adapter1Demo.dll
+D:\Design Pattern\Example\DesignPatternDemo\Adapter1Demo\bin\Debug\netcoreapp3.1\Adapter1Demo.pdb
+D:\Design Pattern\Example\DesignPatternDemo\Adapter1Demo\obj\Debug\netcoreapp3.1\Adapter1Demo.csproj.AssemblyReference.cache
+D:\Design Pattern\Example\DesignPatternDemo\Adapter1Demo\obj\Debug\netcoreapp3.1\Adapter1Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Design Pattern\Example\DesignPatternDemo\Adapter1Demo\obj\Debug\netcoreapp3.1\Adapter1Demo.AssemblyInfoInputs.cache
+D:\Design Pattern\Example\DesignPatternDemo\Adapter1Demo\obj\Debug\netcoreapp3.1\Adapter1Demo.AssemblyInfo.cs
+D:\Design Pattern\Example\DesignPatternDemo\Adapter1Demo\obj\Debug\netcoreapp3.1\Adapter1Demo.csproj.CoreCompileInputs.cache
+D:\Design Pattern\Example\DesignPatternDemo\Adapter1Demo\obj\Debug\netcoreapp3.1\Adapter1Demo.dll
+D:\Design Pattern\Example\DesignPatternDemo\Adapter1Demo\obj\Debug\netcoreapp3.1\Adapter1Demo.pdb
+D:\Design Pattern\Example\DesignPatternDemo\Adapter1Demo\obj\Debug\netcoreapp3.1\Adapter1Demo.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Design Pattern\Example\DesignPatternDemo\Bridge2Demo\bin\Debug\netcoreapp3.1\Bridge2Demo.exe
+D:\Design Pattern\Example\DesignPatternDemo\Bridge2Demo\bin\Debug\netcoreapp3.1\Bridge2Demo.deps.json
+D:\Design Pattern\Example\DesignPatternDemo\Bridge2Demo\bin\Debug\netcoreapp3.1\Bridge2Demo.runtimeconfig.json
+D:\Design Pattern\Example\DesignPatternDemo\Bridge2Demo\bin\Debug\netcoreapp3.1\Bridge2Demo.runtimeconfig.dev.json
+D:\Design Pattern\Example\DesignPatternDemo\Bridge2Demo\bin\Debug\netcoreapp3.1\Bridge2Demo.dll
+D:\Design Pattern\Example\DesignPatternDemo\Bridge2Demo\bin\Debug\netcoreapp3.1\Bridge2Demo.pdb
+D:\Design Pattern\Example\DesignPatternDemo\Bridge2Demo\obj\Debug\netcoreapp3.1\Bridge2Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Design Pattern\Example\DesignPatternDemo\Bridge2Demo\obj\Debug\netcoreapp3.1\Bridge2Demo.AssemblyInfoInputs.cache
+D:\Design Pattern\Example\DesignPatternDemo\Bridge2Demo\obj\Debug\netcoreapp3.1\Bridge2Demo.AssemblyInfo.cs
+D:\Design Pattern\Example\DesignPatternDemo\Bridge2Demo\obj\Debug\netcoreapp3.1\Bridge2Demo.csproj.CoreCompileInputs.cache
+D:\Design Pattern\Example\DesignPatternDemo\Bridge2Demo\obj\Debug\netcoreapp3.1\Bridge2Demo.dll
+D:\Design Pattern\Example\DesignPatternDemo\Bridge2Demo\obj\Debug\netcoreapp3.1\Bridge2Demo.pdb
+D:\Design Pattern\Example\DesignPatternDemo\Bridge2Demo\obj\Debug\netcoreapp3.1\Bridge2Demo.genruntimeconfig.cache

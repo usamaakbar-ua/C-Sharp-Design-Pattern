@@ -1,0 +1,16 @@
+D:\Design Pattern\Example\DesignPatternDemo\Observer2Demo\bin\Debug\net5.0\Observer2Demo.exe
+D:\Design Pattern\Example\DesignPatternDemo\Observer2Demo\bin\Debug\net5.0\Observer2Demo.deps.json
+D:\Design Pattern\Example\DesignPatternDemo\Observer2Demo\bin\Debug\net5.0\Observer2Demo.runtimeconfig.json
+D:\Design Pattern\Example\DesignPatternDemo\Observer2Demo\bin\Debug\net5.0\Observer2Demo.runtimeconfig.dev.json
+D:\Design Pattern\Example\DesignPatternDemo\Observer2Demo\bin\Debug\net5.0\Observer2Demo.dll
+D:\Design Pattern\Example\DesignPatternDemo\Observer2Demo\bin\Debug\net5.0\ref\Observer2Demo.dll
+D:\Design Pattern\Example\DesignPatternDemo\Observer2Demo\bin\Debug\net5.0\Observer2Demo.pdb
+D:\Design Pattern\Example\DesignPatternDemo\Observer2Demo\obj\Debug\net5.0\Observer2Demo.csproj.AssemblyReference.cache
+D:\Design Pattern\Example\DesignPatternDemo\Observer2Demo\obj\Debug\net5.0\Observer2Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Design Pattern\Example\DesignPatternDemo\Observer2Demo\obj\Debug\net5.0\Observer2Demo.AssemblyInfoInputs.cache
+D:\Design Pattern\Example\DesignPatternDemo\Observer2Demo\obj\Debug\net5.0\Observer2Demo.AssemblyInfo.cs
+D:\Design Pattern\Example\DesignPatternDemo\Observer2Demo\obj\Debug\net5.0\Observer2Demo.csproj.CoreCompileInputs.cache
+D:\Design Pattern\Example\DesignPatternDemo\Observer2Demo\obj\Debug\net5.0\Observer2Demo.dll
+D:\Design Pattern\Example\DesignPatternDemo\Observer2Demo\obj\Debug\net5.0\ref\Observer2Demo.dll
+D:\Design Pattern\Example\DesignPatternDemo\Observer2Demo\obj\Debug\net5.0\Observer2Demo.pdb
+D:\Design Pattern\Example\DesignPatternDemo\Observer2Demo\obj\Debug\net5.0\Observer2Demo.genruntimeconfig.cache

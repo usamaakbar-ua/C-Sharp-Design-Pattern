@@ -1,0 +1,13 @@
+D:\Design Pattern\Example\DesignPatternDemo\Proxy2Demo\bin\Debug\netcoreapp3.1\Proxy2Demo.exe
+D:\Design Pattern\Example\DesignPatternDemo\Proxy2Demo\bin\Debug\netcoreapp3.1\Proxy2Demo.deps.json
+D:\Design Pattern\Example\DesignPatternDemo\Proxy2Demo\bin\Debug\netcoreapp3.1\Proxy2Demo.runtimeconfig.json
+D:\Design Pattern\Example\DesignPatternDemo\Proxy2Demo\bin\Debug\netcoreapp3.1\Proxy2Demo.runtimeconfig.dev.json
+D:\Design Pattern\Example\DesignPatternDemo\Proxy2Demo\bin\Debug\netcoreapp3.1\Proxy2Demo.dll
+D:\Design Pattern\Example\DesignPatternDemo\Proxy2Demo\bin\Debug\netcoreapp3.1\Proxy2Demo.pdb
+D:\Design Pattern\Example\DesignPatternDemo\Proxy2Demo\obj\Debug\netcoreapp3.1\Proxy2Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Design Pattern\Example\DesignPatternDemo\Proxy2Demo\obj\Debug\netcoreapp3.1\Proxy2Demo.AssemblyInfoInputs.cache
+D:\Design Pattern\Example\DesignPatternDemo\Proxy2Demo\obj\Debug\netcoreapp3.1\Proxy2Demo.AssemblyInfo.cs
+D:\Design Pattern\Example\DesignPatternDemo\Proxy2Demo\obj\Debug\netcoreapp3.1\Proxy2Demo.csproj.CoreCompileInputs.cache
+D:\Design Pattern\Example\DesignPatternDemo\Proxy2Demo\obj\Debug\netcoreapp3.1\Proxy2Demo.dll
+D:\Design Pattern\Example\DesignPatternDemo\Proxy2Demo\obj\Debug\netcoreapp3.1\Proxy2Demo.pdb
+D:\Design Pattern\Example\DesignPatternDemo\Proxy2Demo\obj\Debug\netcoreapp3.1\Proxy2Demo.genruntimeconfig.cache

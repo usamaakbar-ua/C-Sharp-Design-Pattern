@@ -1,0 +1,15 @@
+D:\Design Pattern\Example\DesignPatternDemo\Memento3Demo\bin\Debug\net5.0\Memento3Demo.exe
+D:\Design Pattern\Example\DesignPatternDemo\Memento3Demo\bin\Debug\net5.0\Memento3Demo.deps.json
+D:\Design Pattern\Example\DesignPatternDemo\Memento3Demo\bin\Debug\net5.0\Memento3Demo.runtimeconfig.json
+D:\Design Pattern\Example\DesignPatternDemo\Memento3Demo\bin\Debug\net5.0\Memento3Demo.runtimeconfig.dev.json
+D:\Design Pattern\Example\DesignPatternDemo\Memento3Demo\bin\Debug\net5.0\Memento3Demo.dll
+D:\Design Pattern\Example\DesignPatternDemo\Memento3Demo\bin\Debug\net5.0\ref\Memento3Demo.dll
+D:\Design Pattern\Example\DesignPatternDemo\Memento3Demo\bin\Debug\net5.0\Memento3Demo.pdb
+D:\Design Pattern\Example\DesignPatternDemo\Memento3Demo\obj\Debug\net5.0\Memento3Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Design Pattern\Example\DesignPatternDemo\Memento3Demo\obj\Debug\net5.0\Memento3Demo.AssemblyInfoInputs.cache
+D:\Design Pattern\Example\DesignPatternDemo\Memento3Demo\obj\Debug\net5.0\Memento3Demo.AssemblyInfo.cs
+D:\Design Pattern\Example\DesignPatternDemo\Memento3Demo\obj\Debug\net5.0\Memento3Demo.csproj.CoreCompileInputs.cache
+D:\Design Pattern\Example\DesignPatternDemo\Memento3Demo\obj\Debug\net5.0\Memento3Demo.dll
+D:\Design Pattern\Example\DesignPatternDemo\Memento3Demo\obj\Debug\net5.0\ref\Memento3Demo.dll
+D:\Design Pattern\Example\DesignPatternDemo\Memento3Demo\obj\Debug\net5.0\Memento3Demo.pdb
+D:\Design Pattern\Example\DesignPatternDemo\Memento3Demo\obj\Debug\net5.0\Memento3Demo.genruntimeconfig.cache

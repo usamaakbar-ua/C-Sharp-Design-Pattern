@@ -1,0 +1,14 @@
+D:\Design Pattern\Example\DesignPatternDemo\Facade2Demo\bin\Debug\netcoreapp3.1\Facade2Demo.exe
+D:\Design Pattern\Example\DesignPatternDemo\Facade2Demo\bin\Debug\netcoreapp3.1\Facade2Demo.deps.json
+D:\Design Pattern\Example\DesignPatternDemo\Facade2Demo\bin\Debug\netcoreapp3.1\Facade2Demo.runtimeconfig.json
+D:\Design Pattern\Example\DesignPatternDemo\Facade2Demo\bin\Debug\netcoreapp3.1\Facade2Demo.runtimeconfig.dev.json
+D:\Design Pattern\Example\DesignPatternDemo\Facade2Demo\bin\Debug\netcoreapp3.1\Facade2Demo.dll
+D:\Design Pattern\Example\DesignPatternDemo\Facade2Demo\bin\Debug\netcoreapp3.1\Facade2Demo.pdb
+D:\Design Pattern\Example\DesignPatternDemo\Facade2Demo\obj\Debug\netcoreapp3.1\Facade2Demo.csproj.AssemblyReference.cache
+D:\Design Pattern\Example\DesignPatternDemo\Facade2Demo\obj\Debug\netcoreapp3.1\Facade2Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Design Pattern\Example\DesignPatternDemo\Facade2Demo\obj\Debug\netcoreapp3.1\Facade2Demo.AssemblyInfoInputs.cache
+D:\Design Pattern\Example\DesignPatternDemo\Facade2Demo\obj\Debug\netcoreapp3.1\Facade2Demo.AssemblyInfo.cs
+D:\Design Pattern\Example\DesignPatternDemo\Facade2Demo\obj\Debug\netcoreapp3.1\Facade2Demo.csproj.CoreCompileInputs.cache
+D:\Design Pattern\Example\DesignPatternDemo\Facade2Demo\obj\Debug\netcoreapp3.1\Facade2Demo.dll
+D:\Design Pattern\Example\DesignPatternDemo\Facade2Demo\obj\Debug\netcoreapp3.1\Facade2Demo.pdb
+D:\Design Pattern\Example\DesignPatternDemo\Facade2Demo\obj\Debug\netcoreapp3.1\Facade2Demo.genruntimeconfig.cache

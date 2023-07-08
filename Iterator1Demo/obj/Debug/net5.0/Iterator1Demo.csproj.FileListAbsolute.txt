@@ -1,0 +1,16 @@
+D:\Design Pattern\Example\DesignPatternDemo\Iterator1Demo\bin\Debug\net5.0\Iterator1Demo.exe
+D:\Design Pattern\Example\DesignPatternDemo\Iterator1Demo\bin\Debug\net5.0\Iterator1Demo.deps.json
+D:\Design Pattern\Example\DesignPatternDemo\Iterator1Demo\bin\Debug\net5.0\Iterator1Demo.runtimeconfig.json
+D:\Design Pattern\Example\DesignPatternDemo\Iterator1Demo\bin\Debug\net5.0\Iterator1Demo.runtimeconfig.dev.json
+D:\Design Pattern\Example\DesignPatternDemo\Iterator1Demo\bin\Debug\net5.0\Iterator1Demo.dll
+D:\Design Pattern\Example\DesignPatternDemo\Iterator1Demo\bin\Debug\net5.0\ref\Iterator1Demo.dll
+D:\Design Pattern\Example\DesignPatternDemo\Iterator1Demo\bin\Debug\net5.0\Iterator1Demo.pdb
+D:\Design Pattern\Example\DesignPatternDemo\Iterator1Demo\obj\Debug\net5.0\Iterator1Demo.csproj.AssemblyReference.cache
+D:\Design Pattern\Example\DesignPatternDemo\Iterator1Demo\obj\Debug\net5.0\Iterator1Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Design Pattern\Example\DesignPatternDemo\Iterator1Demo\obj\Debug\net5.0\Iterator1Demo.AssemblyInfoInputs.cache
+D:\Design Pattern\Example\DesignPatternDemo\Iterator1Demo\obj\Debug\net5.0\Iterator1Demo.AssemblyInfo.cs
+D:\Design Pattern\Example\DesignPatternDemo\Iterator1Demo\obj\Debug\net5.0\Iterator1Demo.csproj.CoreCompileInputs.cache
+D:\Design Pattern\Example\DesignPatternDemo\Iterator1Demo\obj\Debug\net5.0\Iterator1Demo.dll
+D:\Design Pattern\Example\DesignPatternDemo\Iterator1Demo\obj\Debug\net5.0\ref\Iterator1Demo.dll
+D:\Design Pattern\Example\DesignPatternDemo\Iterator1Demo\obj\Debug\net5.0\Iterator1Demo.pdb
+D:\Design Pattern\Example\DesignPatternDemo\Iterator1Demo\obj\Debug\net5.0\Iterator1Demo.genruntimeconfig.cache
